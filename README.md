@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syed Abbas Haider
-- 👀 I’m interested in  Feontend Development.
+- 👀 I’m interested in  Frontend Web Development.
 - 🌱 I’m currently learning Frontend Development.
 - 💞️ I’m looking to collaborate on Frontend Development.
 - 📫 How to reach me by my email
